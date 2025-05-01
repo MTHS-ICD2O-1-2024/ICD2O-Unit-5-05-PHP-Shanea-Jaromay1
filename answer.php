@@ -29,7 +29,7 @@
     </header>
     <main class="mdl-layout__content">
       <div class="right-image">
-        <img src="./images/triangles.png" alt="Triangles image" width="500" />
+        <img src="./images/Untitled.png" alt="Triangles image" width="500" />
       </div>
       <div class="page-content-answer">
         <div id="answer">
